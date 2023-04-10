@@ -36,7 +36,7 @@ disableImageZoom = true
 
 [homepage]
   layout = "card" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "homepage.png" # used in: hero, and card
+  homepageImage = "homepage.webp" # used in: hero, and card
   showRecent = false
   showRecentItems = 5
   showMoreLink = false
