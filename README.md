@@ -1,10 +1,10 @@
-<center>
+<p style="text-align: center;">
 
 # [Only Furs](https://onlyfurs.net)
 
 ### A totally legitimate website with no trickery whatsoever.
 
-</center>
+</p>
 
 ## Running Locally
 
