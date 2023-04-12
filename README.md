@@ -1,7 +1,7 @@
 <p align="center">
-	### [Only Furs](https://onlyfurs.net)
+### [Only Furs](https://onlyfurs.net)
 
-    #### A totally legitimate website with no trickery whatsoever.
+#### A totally legitimate website with no trickery whatsoever.
 </p>
 
 ---
